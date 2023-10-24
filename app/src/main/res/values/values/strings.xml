@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Welcome to my App</string>
+    <string name="Business_account">Business Account</string>
+    <string name="agree_terms">Agree with Terms &amp; Conditions </string>
+    <string name="email">E-mail</string>
+    <string name="company_name">Company name</string>
+    <string name="company_type">Company type</string>
+    <string name="website">Website</string>
+    <string name="password">Password</string>
+    <string name="create_button">Create account</string>
+    <string name="full_name">Fullname</string>
+    <string name="email_2">Email</string>
+    <string name="phn_num">Phone number</string>
+    <string name="register">Register</string>
+
+</resources>
